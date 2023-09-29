@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sreeja Saha</h1>
-<h3 align="center">Graduated Electronic and Communication Engineer</h3>
+<h3 align="center">Graduated Electronics and Communication Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreejasaha19&label=Profile%20views&color=0e75b6&style=flat" alt="sreejasaha19" /> </p>
 
